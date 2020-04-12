@@ -1,0 +1,728 @@
+Occupation title (click on the occupation title to view its profile),Location quotient,Annual mean wage
+All Occupations,1.0,66790
+Management Occupations,1.04,165830
+Chief Executives,0.48,252880
+General and Operations Managers,1.03,167160
+Legislators,0.85,58600
+Advertising and Promotions Managers,4.75,186040
+Marketing Managers,1.63,188810
+Sales Managers,1.21,195220
+Public Relations and Fundraising Managers,1.39,179610
+Administrative Services and Facilities Managers,1.24,140800
+Computer and Information Systems Managers,1.25,196290
+Financial Managers,1.31,208770
+Industrial Production Managers,0.53,140940
+Purchasing Managers,0.97,171560
+"Transportation, Storage, and Distribution Managers",0.84,124710
+Compensation and Benefits Managers,1.48,181770
+Human Resources Managers,1.18,170070
+Training and Development Managers,1.27,167850
+"Farmers, Ranchers, and Other Agricultural Managers",0.23,103180
+Construction Managers,0.73,148140
+"Education and Childcare Administrators, Preschool and Daycare",1.05,80910
+"Education Administrators, Kindergarten through Secondary",1.25,137080
+"Education Administrators, All Other",0.76,113420
+Architectural and Engineering Managers,0.55,172970
+Food Service Managers,0.64,80940
+Lodging Managers,0.32,93080
+Medical and Health Services Managers,1.1,144370
+Natural Sciences Managers,1.16,187570
+Postmasters and Mail Superintendents,0.68,82690
+"Property, Real Estate, and Community Association Managers",0.77,107190
+Social and Community Service Managers,1.14,92150
+Emergency Management Directors,0.88,103390
+"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",0.75,148070
+Business and Financial Operations Occupations,1.23,99400
+"Agents and Business Managers of Artists, Performers, and Athletes",3.13,100240
+Buyers and Purchasing Agents,0.99,81450
+"Claims Adjusters, Examiners, and Investigators",0.99,78430
+"Insurance Appraisers, Auto Damage",1.05,66690
+Compliance Officers,1.1,85940
+Cost Estimators,0.75,81540
+Human Resources Specialists,1.08,79240
+Labor Relations Specialists,1.68,94590
+Logisticians,0.76,85580
+Management Analysts,1.17,116940
+"Meeting, Convention, and Event Planners",1.42,72840
+Fundraisers,1.31,73450
+"Compensation, Benefits, and Job Analysis Specialists",1.69,88480
+Training and Development Specialists,1.02,76580
+Market Research Analysts and Marketing Specialists,1.68,83420
+"Project Management Specialists and Business Operations Specialists, All Other",0.85,91390
+Accountants and Auditors,1.43,102090
+Property Appraisers and Assessors,0.59,77010
+Budget Analysts,0.96,86420
+Credit Analysts,1.74,120850
+Personal Financial Advisors,1.95,165830
+Insurance Underwriters,1.17,98950
+Financial Examiners,2.76,125290
+Credit Counselors,1.09,67500
+Loan Officers,0.65,106090
+"Tax Examiners and Collectors, and Revenue Agents",0.95,78710
+Tax Preparers,1.06,65500
+"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",2.12,131690
+Computer and Mathematical Occupations,1.05,106670
+Computer Systems Analysts,1.14,114070
+Information Security Analysts,1.07,127850
+Computer and Information Research Scientists,0.89,137190
+Computer Network Support Specialists,1.1,86440
+Computer User Support Specialists,1.01,65800
+Computer Network Architects,1.01,129900
+Network and Computer Systems Administrators,1.16,105050
+Database Administrators and Architects,1.08,113040
+Computer Programmers,1.15,98070
+Software Developers and Software Quality Assurance Analysts and Testers,1.09,122230
+Web Developers and Digital Interface Designers,1.38,89110
+"Computer Occupations, All Other",0.47,91370
+Actuaries,1.6,147760
+Mathematicians,1.34,119160
+Operations Research Analysts,1.13,112630
+Statisticians,0.66,107150
+"Data Scientists and Mathematical Science Occupations, All Other",1.33,125030
+Architecture and Engineering Occupations,0.56,96300
+"Architects, Except Landscape and Naval",1.69,105670
+Landscape Architects,1.09,79530
+Cartographers and Photogrammetrists,0.24,88100
+Surveyors,0.69,84970
+Bioengineers and Biomedical Engineers,0.43,112340
+Chemical Engineers,0.42,115730
+Civil Engineers,0.78,106430
+Computer Hardware Engineers,0.41,122680
+Electrical Engineers,0.65,114150
+"Electronics Engineers, Except Computer",0.49,110490
+Environmental Engineers,0.65,102330
+"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",0.91,103930
+Industrial Engineers,0.4,105010
+Marine Engineers and Naval Architects,0.36,128750
+Materials Engineers,0.37,102510
+Mechanical Engineers,0.41,98670
+"Engineers, All Other",0.53,102860
+Architectural and Civil Drafters,1.06,63970
+Electrical and Electronics Drafters,0.66,78730
+Mechanical Drafters,0.53,66160
+"Drafters, All Other",0.59,68160
+Civil Engineering Technologists and Technicians,0.4,61090
+Electrical and Electronic Engineering Technologists and Technicians,0.53,72660
+Electro-Mechanical and Mechatronics Technologists and Technicians,0.24,67950
+Environmental Engineering Technologists and Technicians,0.41,56530
+Industrial Engineering Technologists and Technicians,0.32,58090
+Mechanical Engineering Technologists and Technicians,0.33,56730
+Surveying and Mapping Technicians,0.23,60340
+"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",0.33,67800
+"Life, Physical, and Social Science Occupations",0.91,91410
+Food Scientists and Technologists,1.51,81680
+Soil and Plant Scientists,0.1,86570
+Biochemists and Biophysicists,3.47,147350
+Microbiologists,0.71,79580
+Zoologists and Wildlife Biologists,0.16,82190
+"Biological Scientists, All Other",0.29,87900
+Conservation Scientists,0.25,85810
+Foresters,0.13,67230
+Epidemiologists,0.51,108170
+"Medical Scientists, Except Epidemiologists",0.97,113100
+"Life Scientists, All Other",0.78,83670
+Physicists,0.93,151840
+Atmospheric and Space Scientists,0.85,106780
+Chemists,1.5,94770
+Materials Scientists,0.6,108680
+"Environmental Scientists and Specialists, Including Health",0.73,84720
+"Geoscientists, Except Hydrologists and Geographers",0.25,83640
+Hydrologists,0.41,93730
+"Physical Scientists, All Other",0.54,103790
+Economists,0.64,149360
+Survey Researchers,0.87,79660
+"Clinical, Counseling, and School Psychologists",1.39,100320
+"Psychologists, All Other",0.5,98450
+Sociologists,0.81,87160
+Urban and Regional Planners,0.54,89880
+Anthropologists and Archeologists,0.19,71760
+Historians,0.56,58820
+Political Scientists,0.19,134000
+"Social Scientists and Related Workers, All Other",0.83,93150
+Agricultural and Food Science Technicians,0.25,48280
+Biological Technicians,0.52,54160
+Chemical Technicians,1.03,57930
+"Environmental Science and Protection Technicians, Including Health",0.88,55260
+Geological and Hydrologic Technicians,0.33,115210
+Nuclear Technicians,0.2,111440
+Social Science Research Assistants,1.65,58310
+Forensic Science Technicians,0.61,67880
+"Life, Physical, and Social Science Technicians, All Other",1.71,59300
+Occupational Health and Safety Specialists,0.57,83620
+Occupational Health and Safety Technicians,0.71,64420
+Community and Social Service Occupations,1.22,57300
+"Educational, Guidance, and Career Counselors and Advisors",1.15,73700
+Marriage and Family Therapists,0.97,68080
+Rehabilitation Counselors,0.68,41870
+"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",0.89,58750
+"Counselors, All Other",0.72,64440
+"Child, Family, and School Social Workers",1.16,63590
+Healthcare Social Workers,1.23,63980
+Mental Health and Substance Abuse Social Workers,1.17,68300
+"Social Workers, All Other",0.87,70180
+Health Education Specialists,0.77,61110
+Probation Officers and Correctional Treatment Specialists,0.71,73580
+Social and Human Service Assistants,1.6,39050
+Community Health Workers,1.45,48190
+"Community and Social Service Specialists, All Other",2.18,57410
+Clergy,1.43,61600
+"Directors, Religious Activities and Education",2.77,53650
+"Religious Workers, All Other",1.51,38930
+Legal Occupations,1.57,141800
+Lawyers,1.9,174720
+Judicial Law Clerks,0.47,66980
+"Administrative Law Judges, Adjudicators, and Hearing Officers",1.36,110810
+"Arbitrators, Mediators, and Conciliators",1.08,87800
+"Judges, Magistrate Judges, and Magistrates",0.87,165940
+Paralegals and Legal Assistants,1.34,60430
+"Title Examiners, Abstractors, and Searchers",0.44,66310
+"Legal Support Workers, All Other",0.71,63830
+Educational Instruction and Library Occupations,1.18,73390
+"Business Teachers, Postsecondary",1.42,120880
+"Computer Science Teachers, Postsecondary",1.37,117320
+"Mathematical Science Teachers, Postsecondary",1.2,115640
+"Architecture Teachers, Postsecondary",1.95,141050
+"Engineering Teachers, Postsecondary",0.84,130440
+"Agricultural Sciences Teachers, Postsecondary",0.24,102500
+"Biological Science Teachers, Postsecondary",1.24,109580
+"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",1.19,122970
+"Chemistry Teachers, Postsecondary",1.53,112020
+"Environmental Science Teachers, Postsecondary",1.45,114870
+"Physics Teachers, Postsecondary",1.26,124600
+"Anthropology and Archeology Teachers, Postsecondary",1.73,116430
+"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",1.77,114880
+"Economics Teachers, Postsecondary",1.74,136150
+"Geography Teachers, Postsecondary",0.35,78030
+"Political Science Teachers, Postsecondary",1.31,128200
+"Psychology Teachers, Postsecondary",1.51,102170
+"Sociology Teachers, Postsecondary",1.59,108520
+"Social Sciences Teachers, Postsecondary, All Other",2.32,119490
+"Health Specialties Teachers, Postsecondary",1.37,129440
+"Nursing Instructors and Teachers, Postsecondary",1.14,101860
+"Education Teachers, Postsecondary",1.29,97920
+"Library Science Teachers, Postsecondary",1.04,88130
+"Criminal Justice and Law Enforcement Teachers, Postsecondary",0.97,75900
+"Law Teachers, Postsecondary",2.68,141430
+"Social Work Teachers, Postsecondary",2.78,97040
+"Art, Drama, and Music Teachers, Postsecondary",1.62,107440
+"Communications Teachers, Postsecondary",1.52,99080
+"English Language and Literature Teachers, Postsecondary",1.67,105500
+"Foreign Language and Literature Teachers, Postsecondary",1.25,95940
+"History Teachers, Postsecondary",1.26,104050
+"Philosophy and Religion Teachers, Postsecondary",1.52,87920
+"Recreation and Fitness Studies Teachers, Postsecondary",0.55,90350
+"Career/Technical Education Teachers, Postsecondary",0.63,75150
+"Postsecondary Teachers, All Other",0.31,109250
+"Preschool Teachers, Except Special Education",1.06,44170
+"Kindergarten Teachers, Except Special Education",0.95,77860
+"Elementary School Teachers, Except Special Education",0.98,83990
+"Middle School Teachers, Except Special and Career/Technical Education",1.19,85780
+"Career/Technical Education Teachers, Middle School",1.13,95660
+"Secondary School Teachers, Except Special and Career/Technical Education",1.06,90050
+"Career/Technical Education Teachers, Secondary School",0.67,83110
+"Special Education Teachers, Preschool",3.56,93100
+"Special Education Teachers, Kindergarten and Elementary School",1.78,82190
+"Special Education Teachers, Middle School",2.39,84830
+"Special Education Teachers, Secondary School",1.75,86990
+"Special Education Teachers, All Other",1.44,84640
+"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",0.86,73440
+Self-Enrichment Teachers,1.99,65570
+"Substitute Teachers, Short-Term",0.79,41200
+"Tutors and Teachers and Instructors, All Other",0.98,61250
+Archivists,2.92,58780
+Curators,1.64,74650
+Museum Technicians and Conservators,1.42,63140
+Librarians and Media Collections Specialists,1.35,73670
+Library Technicians,1.3,37390
+Farm and Home Management Educators,0.2,65510
+Instructional Coordinators,1.32,76670
+"Teaching Assistants, Postsecondary",0.74,45420
+"Teaching Assistants, Except Postsecondary",1.44,34380
+"Educational Instruction and Library Workers, All Other",0.28,58130
+"Arts, Design, Entertainment, Sports, and Media Occupations",1.66,84850
+Art Directors,3.18,134810
+Craft Artists,0.34,44850
+"Fine Artists, Including Painters, Sculptors, and Illustrators",1.95,101250
+Special Effects Artists and Animators,1.4,94890
+"Artists and Related Workers, All Other",0.51,103470
+Commercial and Industrial Designers,1.19,84390
+Fashion Designers,5.92,91630
+Floral Designers,0.74,33680
+Graphic Designers,1.54,68690
+Interior Designers,1.4,68330
+Merchandise Displayers and Window Trimmers,0.76,38930
+Set and Exhibit Designers,2.75,86040
+"Designers, All Other",1.47,73640
+Producers and Directors,3.05,119460
+Athletes and Sports Competitors,0.76,197550
+Coaches and Scouts,0.86,58400
+Music Directors and Composers,2.79,86190
+Broadcast Announcers and Radio Disc Jockeys,0.61,94610
+"News Analysts, Reporters, and Journalists",1.99,89670
+Public Relations Specialists,1.51,81820
+Editors,3.28,88530
+Technical Writers,0.87,83260
+Writers and Authors,2.66,92780
+Interpreters and Translators,0.85,77800
+Court Reporters and Simultaneous Captioners,1.08,84220
+Audio and Video Technicians,1.63,59950
+Broadcast Technicians,2.16,60340
+Sound Engineering Technicians,2.06,77830
+Photographers,1.46,63850
+"Camera Operators, Television, Video, and Film",2.06,98720
+Film and Video Editors,2.44,90360
+Healthcare Practitioners and Technical Occupations,0.94,99350
+Chiropractors,0.73,100290
+"Dentists, General",1.31,170640
+Oral and Maxillofacial Surgeons,0.62,236450
+"Dentists, All Other Specialists",1.08,221330
+Dietitians and Nutritionists,1.06,71480
+Optometrists,0.76,132810
+Pharmacists,1.04,121900
+Physician Assistants,1.45,128420
+Podiatrists,1.67,153150
+Occupational Therapists,1.42,95990
+Physical Therapists,1.16,97380
+Radiation Therapists,1.01,123080
+Recreational Therapists,1.08,59750
+Respiratory Therapists,0.77,79150
+Speech-Language Pathologists,1.3,104180
+Exercise Physiologists,0.78,67510
+"Therapists, All Other",1.12,60350
+Veterinarians,0.7,124590
+Registered Nurses,0.89,93280
+Nurse Anesthetists,0.57,206740
+Nurse Midwives,0.91,117680
+Nurse Practitioners,1.05,128720
+Audiologists,0.76,89920
+Anesthesiologists,1.07,236210
+Family Medicine Physicians,0.53,198780
+Obstetricians and Gynecologists,1.43,229600
+"Pediatricians, General",1.69,177680
+Psychiatrists,2.3,216570
+"Physicians, All Other; and Ophthalmologists, Except Pediatric",1.62,183100
+"Surgeons, Except Ophthalmologists",1.09,239950
+Dental Hygienists,0.82,86990
+"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",1.26,86720
+Clinical Laboratory Technologists and Technicians,0.86,68260
+Cardiovascular Technologists and Technicians,0.78,71160
+Diagnostic Medical Sonographers,1.31,78680
+Nuclear Medicine Technologists,0.88,91410
+Radiologic Technologists and Technicians,0.88,74550
+Magnetic Resonance Imaging Technologists,1.01,87870
+Emergency Medical Technicians and Paramedics,1.03,45420
+Dietetic Technicians,0.47,41520
+Pharmacy Technicians,0.76,36250
+Psychiatric Technicians,0.33,43460
+Surgical Technologists,0.8,59620
+Veterinary Technologists and Technicians,0.68,42960
+Ophthalmic Medical Technicians,1.3,41190
+Licensed Practical and Licensed Vocational Nurses,0.81,56610
+"Opticians, Dispensing",0.64,58460
+Orthotists and Prosthetists,0.41,82600
+"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",0.62,55150
+Athletic Trainers,0.78,53670
+Genetic Counselors,1.4,90010
+"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",0.31,76490
+Healthcare Support Occupations,1.43,32790
+Home Health and Personal Care Aides,1.95,28980
+Nursing Assistants,1.01,38250
+Orderlies,1.33,36220
+Psychiatric Aides,1.35,41680
+Occupational Therapy Assistants,0.82,69860
+Occupational Therapy Aides,0.57,43150
+Physical Therapist Assistants,0.72,60160
+Physical Therapist Aides,1.76,29800
+Massage Therapists,1.06,53270
+Dental Assistants,0.94,42580
+Medical Assistants,0.76,38940
+Medical Equipment Preparers,1.15,45520
+Medical Transcriptionists,0.66,35440
+Pharmacy Aides,0.67,29830
+Veterinary Assistants and Laboratory Animal Caretakers,0.64,32800
+Phlebotomists,0.92,43650
+"Healthcare Support Workers, All Other",1.18,39520
+Protective Service Occupations,1.38,58210
+First-Line Supervisors of Correctional Officers,0.7,108460
+First-Line Supervisors of Police and Detectives,1.81,129440
+First-Line Supervisors of Firefighting and Prevention Workers,0.92,124040
+"Miscellaneous First-Line Supervisors, Protective Service Workers",1.61,60330
+Firefighters,0.7,81470
+Fire Inspectors and Investigators,2.23,59330
+Bailiffs,2.21,75120
+Correctional Officers and Jailers,0.78,71830
+Detectives and Criminal Investigators,1.15,100550
+Fish and Game Wardens,0.21,65490
+Parking Enforcement Workers,1.71,42640
+Police and Sheriff's Patrol Officers,1.32,83040
+Transit and Railroad Police,4.94,69700
+Animal Control Workers,0.63,45920
+Private Detectives and Investigators,0.61,55340
+Gambling Surveillance Officers and Gambling Investigators,0.14,39110
+Security Guards,1.79,36560
+Crossing Guards and Flaggers,2.56,38260
+"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",0.95,29640
+Transportation Security Screeners,1.4,42970
+"School Bus Monitors and Protective Service Workers, All Other",1.77,33300
+Food Preparation and Serving Related Occupations,0.83,33150
+Chefs and Head Cooks,2.02,63180
+First-Line Supervisors of Food Preparation and Serving Workers,0.69,45180
+"Cooks, Fast Food",0.35,26820
+"Cooks, Institution and Cafeteria",0.55,37520
+"Cooks, Restaurant",0.67,33680
+"Cooks, Short Order",1.27,28500
+"Cooks, All Other",0.8,34780
+Food Preparation Workers,1.27,29390
+Bartenders,0.91,39240
+Fast Food and Counter Workers,0.71,26970
+Waiters and Waitresses,0.93,35970
+"Food Servers, Nonrestaurant",1.1,32330
+Dining Room and Cafeteria Attendants and Bartender Helpers,1.24,32200
+Dishwashers,0.88,28720
+"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",0.72,29670
+"Food Preparation and Serving Related Workers, All Other",1.0,29090
+Building and Grounds Cleaning and Maintenance Occupations,1.07,38440
+First-Line Supervisors of Housekeeping and Janitorial Workers,1.1,56390
+"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",0.77,62230
+"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",1.34,37140
+Maids and Housekeeping Cleaners,0.79,37510
+Pest Control Workers,0.83,43590
+Landscaping and Groundskeeping Workers,0.78,36930
+Tree Trimmers and Pruners,0.64,53770
+"Grounds Maintenance Workers, All Other",3.4,30660
+Personal Care and Service Occupations,1.23,37140
+First-Line Supervisors of Gambling Services Workers,0.09,47780
+"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",1.25,51200
+Animal Trainers,1.24,41880
+Animal Caretakers,0.86,30260
+Gambling and Sports Book Writers and Runners,0.65,34890
+Motion Picture Projectionists,1.99,36430
+"Ushers, Lobby Attendants, and Ticket Takers",1.23,31780
+Amusement and Recreation Attendants,0.77,27210
+Costume Attendants,3.11,69390
+"Locker Room, Coatroom, and Dressing Room Attendants",1.7,32130
+"Entertainment Attendants and Related Workers, All Other",1.43,33110
+Funeral Attendants,0.38,36580
+"Morticians, Undertakers, and Funeral Arrangers",0.99,64940
+Barbers,1.33,34740
+"Hairdressers, Hairstylists, and Cosmetologists",1.27,36130
+"Makeup Artists, Theatrical and Performance",2.18,105070
+Manicurists and Pedicurists,3.45,26490
+Shampooers,2.46,23650
+Skincare Specialists,1.78,41370
+Baggage Porters and Bellhops,1.39,34350
+Concierges,2.39,44050
+Tour and Travel Guides,0.86,37130
+Childcare Workers,1.41,30060
+Exercise Trainers and Group Fitness Instructors,1.25,61940
+Recreation Workers,1.29,34130
+Residential Advisors,0.82,38870
+"Crematory Operators and Personal Care and Service Workers, All Other",0.77,34830
+Sales and Related Occupations,0.99,57830
+First-Line Supervisors of Retail Sales Workers,0.83,54810
+First-Line Supervisors of Non-Retail Sales Workers,1.43,107980
+Cashiers,0.83,27550
+Gambling Change Persons and Booth Cashiers,0.29,44350
+Counter and Rental Clerks,0.73,34090
+Parts Salespersons,0.48,43040
+Retail Salespersons,1.02,32300
+Advertising Sales Agents,2.45,88030
+Insurance Sales Agents,0.85,82910
+"Securities, Commodities, and Financial Services Sales Agents",2.53,149880
+Travel Agents,1.35,47630
+"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",1.19,84950
+"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",0.69,111650
+"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",0.96,79850
+Demonstrators and Product Promoters,1.18,39510
+Real Estate Brokers,0.79,120210
+Real Estate Sales Agents,0.53,103700
+Sales Engineers,0.59,116960
+Telemarketers,0.58,35000
+"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",0.86,52600
+"Sales and Related Workers, All Other",0.84,53110
+Office and Administrative Support Occupations,1.06,47790
+First-Line Supervisors of Office and Administrative Support Workers,1.11,73300
+"Switchboard Operators, Including Answering Service",0.75,39710
+Telephone Operators,1.85,46290
+"Communications Equipment Operators, All Other",0.34,54040
+Bill and Account Collectors,0.75,47820
+Billing and Posting Clerks,1.23,46350
+"Bookkeeping, Accounting, and Auditing Clerks",1.0,49460
+Gambling Cage Workers,0.1,39160
+Payroll and Timekeeping Clerks,0.83,51530
+Procurement Clerks,1.09,47650
+Tellers,0.87,34480
+"Financial Clerks, All Other",0.97,56200
+Brokerage Clerks,1.93,69070
+Correspondence Clerks,0.54,42080
+"Court, Municipal, and License Clerks",0.74,61640
+"Credit Authorizers, Checkers, and Clerks",1.13,49240
+Customer Service Representatives,0.81,43680
+"Eligibility Interviewers, Government Programs",0.87,52840
+File Clerks,1.53,34870
+"Hotel, Motel, and Resort Desk Clerks",0.48,35610
+"Interviewers, Except Eligibility and Loan",1.23,42160
+"Library Assistants, Clerical",1.06,35680
+Loan Interviewers and Clerks,0.55,48040
+New Accounts Clerks,0.68,42680
+Order Clerks,0.96,38990
+"Human Resources Assistants, Except Payroll and Timekeeping",1.36,47960
+Receptionists and Information Clerks,1.56,36110
+Reservation and Transportation Ticket Agents and Travel Clerks,1.14,46940
+"Information and Record Clerks, All Other",0.51,48990
+Cargo and Freight Agents,1.24,53950
+Couriers and Messengers,1.71,35430
+Public Safety Telecommunicators,0.97,48930
+"Dispatchers, Except Police, Fire, and Ambulance",1.04,52730
+Postal Service Clerks,1.07,52680
+Postal Service Mail Carriers,1.01,53410
+"Postal Service Mail Sorters, Processors, and Processing Machine Operators",1.56,52250
+"Production, Planning, and Expediting Clerks",1.53,53630
+"Shipping, Receiving, and Inventory Clerks",0.72,38680
+"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",0.99,39120
+Executive Secretaries and Executive Administrative Assistants,2.52,74640
+Legal Secretaries and Administrative Assistants,1.44,57220
+Medical Secretaries and Administrative Assistants,0.36,44350
+"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",1.2,43550
+Data Entry Keyers,1.32,40680
+Word Processors and Typists,3.28,47450
+Desktop Publishers,1.36,51950
+Insurance Claims and Policy Processing Clerks,0.62,50430
+"Mail Clerks and Mail Machine Operators, Except Postal Service",1.54,35150
+"Office Clerks, General",0.95,37590
+"Office Machine Operators, Except Computer",1.7,36430
+Proofreaders and Copy Markers,2.3,52600
+Statistical Assistants,0.48,56910
+"Office and Administrative Support Workers, All Other",1.47,29590
+"Farming, Fishing, and Forestry Occupations",0.13,36780
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.16,55060
+Agricultural Inspectors,0.23,64320
+"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",0.15,34170
+"Farmworkers, Farm, Ranch, and Aquacultural Animals",0.14,31090
+Forest and Conservation Workers,0.24,35050
+Construction and Extraction Occupations,0.82,69860
+First-Line Supervisors of Construction Trades and Extraction Workers,0.56,94170
+Boilermakers,0.58,88500
+Brickmasons and Blockmasons,0.92,79640
+Stonemasons,1.12,60920
+Carpenters,1.0,71040
+Carpet Installers,0.69,49380
+"Floor Layers, Except Carpet, Wood, and Hard Tiles",0.45,71160
+Floor Sanders and Finishers,0.7,40470
+Tile and Stone Setters,1.35,65080
+Cement Masons and Concrete Finishers,0.53,68970
+Construction Laborers,0.99,57800
+"Paving, Surfacing, and Tamping Equipment Operators",0.72,64200
+Operating Engineers and Other Construction Equipment Operators,0.42,92640
+Drywall and Ceiling Tile Installers,0.92,54780
+Tapers,0.54,78540
+Electricians,0.98,82640
+Glaziers,0.9,68820
+"Insulation Workers, Floor, Ceiling, and Wall",0.22,47620
+"Insulation Workers, Mechanical",0.21,105820
+"Painters, Construction and Maintenance",0.98,54870
+Paperhangers,2.35,59450
+Pipelayers,0.23,60240
+"Plumbers, Pipefitters, and Steamfitters",0.97,75410
+Reinforcing Iron and Rebar Workers,1.11,77650
+Roofers,0.45,74180
+Sheet Metal Workers,0.76,73780
+Structural Iron and Steel Workers,0.97,90150
+Solar Photovoltaic Installers,1.42,52290
+"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",1.14,49120
+Helpers--Carpenters,0.84,35620
+Helpers--Electricians,1.1,40260
+"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",0.86,39200
+"Helpers, Construction Trades, All Other",0.76,37580
+Construction and Building Inspectors,1.12,71470
+Elevator and Escalator Installers and Repairers,2.66,83980
+Fence Erectors,0.62,42740
+Hazardous Materials Removal Workers,1.43,63030
+Highway Maintenance Workers,0.64,51440
+Rail-Track Laying and Maintenance Equipment Operators,2.39,72680
+Septic Tank Servicers and Sewer Pipe Cleaners,0.85,50840
+Miscellaneous Construction and Related Workers,0.5,49840
+"Excavating and Loading Machine and Dragline Operators, Surface Mining",0.63,75940
+"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",0.32,65570
+"Underground Mining Machine Operators and Extraction Workers, All Other",0.13,47950
+"Installation, Maintenance, and Repair Occupations",0.8,57240
+"First-Line Supervisors of Mechanics, Installers, and Repairers",0.8,83290
+"Computer, Automated Teller, and Office Machine Repairers",1.02,48480
+"Radio, Cellular, and Tower Equipment Installers and Repairers",1.09,62000
+"Telecommunications Equipment Installers and Repairers, Except Line Installers",0.68,72050
+Avionics Technicians,0.33,69630
+"Electric Motor, Power Tool, and Related Repairers",0.57,48230
+"Electrical and Electronics Installers and Repairers, Transportation Equipment",1.06,66410
+"Electrical and Electronics Repairers, Commercial and Industrial Equipment",0.48,60220
+"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",1.55,86010
+"Electronic Equipment Installers and Repairers, Motor Vehicles",1.62,36860
+Audiovisual Equipment Installers and Repairers,0.99,46500
+Security and Fire Alarm Systems Installers,1.08,57540
+Aircraft Mechanics and Service Technicians,0.52,75070
+Automotive Body and Related Repairers,0.78,49520
+Automotive Glass Installers and Repairers,0.59,33350
+Automotive Service Technicians and Mechanics,0.71,49130
+Bus and Truck Mechanics and Diesel Engine Specialists,0.75,60560
+Farm Equipment Mechanics and Service Technicians,0.04,52860
+"Mobile Heavy Equipment Mechanics, Except Engines",0.35,70400
+Rail Car Repairers,0.64,76750
+Motorboat Mechanics and Service Technicians,0.44,43460
+Motorcycle Mechanics,0.36,42450
+Outdoor Power Equipment and Other Small Engine Mechanics,0.43,47550
+Bicycle Repairers,0.78,32660
+Recreational Vehicle Service Technicians,0.16,53360
+Tire Repairers and Changers,0.54,30720
+Mechanical Door Repairers,0.62,48170
+"Control and Valve Installers and Repairers, Except Mechanical Door",0.98,77180
+"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",0.84,63210
+Home Appliance Repairers,1.0,46140
+Industrial Machinery Mechanics,0.44,62760
+"Maintenance Workers, Machinery",0.4,57450
+Millwrights,0.26,78750
+Electrical Power-Line Installers and Repairers,0.44,88010
+Telecommunications Line Installers and Repairers,1.45,79200
+Camera and Photographic Equipment Repairers,1.74,45510
+Medical Equipment Repairers,0.71,67620
+Musical Instrument Repairers and Tuners,1.04,43140
+Watch and Clock Repairers,2.51,50810
+"Precision Instrument and Equipment Repairers, All Other",0.94,62290
+"Maintenance and Repair Workers, General",1.09,48260
+"Coin, Vending, and Amusement Machine Servicers and Repairers",0.79,50650
+Commercial Divers,0.58,84780
+Locksmiths and Safe Repairers,0.8,52860
+Riggers,0.41,79340
+Signal and Track Switch Repairers,1.89,74670
+"Helpers--Installation, Maintenance, and Repair Workers",0.8,38210
+"Installation, Maintenance, and Repair Workers, All Other",0.72,43230
+Production Occupations,0.48,42120
+First-Line Supervisors of Production and Operating Workers,0.5,71700
+"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",0.03,49870
+"Coil Winders, Tapers, and Finishers",0.29,36000
+"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",0.46,37860
+Engine and Other Machine Assemblers,0.09,43360
+Structural Metal Fabricators and Fitters,0.39,49550
+Fiberglass Laminators and Fabricators,0.15,49980
+Miscellaneous Assemblers and Fabricators,0.29,33730
+Bakers,0.93,33930
+Butchers and Meat Cutters,0.88,39870
+"Meat, Poultry, and Fish Cutters and Trimmers",0.3,29870
+Slaughterers and Meat Packers,0.18,31480
+"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",0.54,33290
+Food Batchmakers,0.67,30280
+Food Cooking Machine Operators and Tenders,0.65,30880
+"Food Processing Workers, All Other",0.29,27360
+"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",0.4,35420
+"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",0.27,42390
+"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",0.35,35700
+"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",0.32,37070
+"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.36,37390
+"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.43,43230
+"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",0.26,51010
+Machinists,0.28,50090
+Metal-Refining Furnace Operators and Tenders,0.2,50570
+"Pourers and Casters, Metal",0.11,39380
+"Model Makers, Metal and Plastic",0.37,56290
+Foundry Mold and Coremakers,0.35,42280
+"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",0.25,35510
+"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.17,36010
+Tool and Die Makers,0.21,58310
+"Welders, Cutters, Solderers, and Brazers",0.27,52900
+"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",0.21,42520
+"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",0.25,42550
+"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",0.32,39260
+"Metal Workers and Plastic Workers, All Other",0.2,40050
+Prepress Technicians and Workers,0.85,51930
+Printing Press Operators,0.68,45800
+Print Binding and Finishing Workers,0.85,35930
+Laundry and Dry-Cleaning Workers,1.24,27590
+"Pressers, Textile, Garment, and Related Materials",0.72,27370
+Sewing Machine Operators,1.1,31320
+Shoe and Leather Workers and Repairers,0.87,28180
+"Sewers, Hand",1.39,33330
+Textile Bleaching and Dyeing Machine Operators and Tenders,0.42,32280
+"Textile Cutting Machine Setters, Operators, and Tenders",0.89,32650
+"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",0.52,30880
+"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",0.11,34690
+Fabric and Apparel Patternmakers,3.51,71050
+Upholsterers,0.33,40220
+"Textile, Apparel, and Furnishings Workers, All Other",0.6,28640
+Cabinetmakers and Bench Carpenters,0.55,47420
+Furniture Finishers,0.87,40050
+"Sawing Machine Setters, Operators, and Tenders, Wood",0.09,37640
+"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",0.26,35100
+"Woodworkers, All Other",0.11,33140
+Power Distributors and Dispatchers,0.46,99090
+Power Plant Operators,0.64,90240
+Stationary Engineers and Boiler Operators,1.63,86510
+Water and Wastewater Treatment Plant and System Operators,0.52,69440
+Chemical Plant and System Operators,0.15,67660
+Gas Plant Operators,0.44,83680
+"Petroleum Pump System Operators, Refinery Operators, and Gaugers",0.14,80360
+"Plant and System Operators, All Other",0.32,67940
+Chemical Equipment Operators and Tenders,0.72,47370
+"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",0.38,52400
+"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",0.59,36300
+"Grinding and Polishing Workers, Hand",0.67,43430
+"Mixing and Blending Machine Setters, Operators, and Tenders",0.68,41250
+"Cutters and Trimmers, Hand",0.79,31930
+"Cutting and Slicing Machine Setters, Operators, and Tenders",0.46,37640
+"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",0.72,37770
+"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",0.19,45890
+"Inspectors, Testers, Sorters, Samplers, and Weighers",0.53,44510
+Jewelers and Precious Stone and Metal Workers,3.1,55120
+Dental Laboratory Technicians,0.49,57550
+Medical Appliance Technicians,1.16,43730
+Ophthalmic Laboratory Technicians,0.91,37870
+Packaging and Filling Machine Operators and Tenders,0.79,30270
+"Painting, Coating, and Decorating Workers",0.73,37870
+"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",0.33,42070
+Photographic Process Workers and Processing Machine Operators,1.35,45300
+Computer Numerically Controlled Tool Operators,0.28,41570
+Computer Numerically Controlled Tool Programmers,0.36,59080
+Adhesive Bonding Machine Operators and Tenders,0.22,39300
+"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",0.69,32060
+Cooling and Freezing Equipment Operators and Tenders,0.27,40550
+Etchers and Engravers,0.66,36310
+"Molders, Shapers, and Casters, Except Metal and Plastic",0.4,43800
+"Paper Goods Machine Setters, Operators, and Tenders",0.46,36470
+Helpers--Production Workers,0.28,31630
+"Production Workers, All Other",0.49,34730
+Transportation and Material Moving Occupations,0.91,42200
+Aircraft Cargo Handling Supervisors,0.66,64090
+"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",0.99,64140
+"Airline Pilots, Copilots, and Flight Engineers",1.79,155740
+Airfield Operations Specialists,0.67,67950
+Flight Attendants,2.08,49310
+"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",1.0,34890
+Driver/Sales Workers,0.72,33130
+Heavy and Tractor-Trailer Truck Drivers,0.57,54500
+Light Truck Drivers,0.89,41260
+"Bus Drivers, Transit and Intercity",1.91,60450
+"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",1.31,42040
+"Motor Vehicle Operators, All Other",0.95,40110
+Locomotive Engineers,0.26,62690
+Railroad Conductors and Yardmasters,1.3,61750
+Subway and Streetcar Operators,5.15,77830
+"Rail Transportation Workers, All Other",1.23,56470
+Sailors and Marine Oilers,0.91,49390
+"Captains, Mates, and Pilots of Water Vessels",1.07,90040
+Motorboat Operators,1.27,47560
+Ship Engineers,1.04,100020
+Bridge and Lock Tenders,0.85,50400
+Parking Attendants,1.67,28290
+Automotive and Watercraft Service Attendants,1.29,23740
+Traffic Technicians,2.3,61750
+Transportation Inspectors,2.13,75410
+Passenger Attendants,1.86,30190
+"Aircraft Service Attendants and Transportation Workers, All Other",0.56,39970
+Hoist and Winch Operators,0.13,68700
+Industrial Truck and Tractor Operators,0.52,42390
+Cleaners of Vehicles and Equipment,0.82,33990
+"Laborers and Freight, Stock, and Material Movers, Hand",0.95,34920
+Machine Feeders and Offbearers,0.25,33530
+"Packers and Packagers, Hand",1.12,28720
+Stockers and Order Fillers,0.88,30760
+Gas Compressor and Gas Pumping Station Operators,0.56,75030
+"Pump Operators, Except Wellhead Pumpers",0.57,48040
+Refuse and Recyclable Material Collectors,1.28,59310
+"Material Moving Workers, All Other",0.9,50720
